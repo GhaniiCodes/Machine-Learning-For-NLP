@@ -5,15 +5,15 @@ This project explores the intersection of Machine Learning (ML) and Natural Lang
 
 ## What's Inside
 
-.📚 Theoretical explanations of important ML and NLP concepts
+-📚 Theoretical explanations of important ML and NLP concepts
 
-.🛠️ Implementation of foundational models (e.g., Naive Bayes, Logistic Regression, Decision Trees) for NLP tasks
+-🛠️ Implementation of foundational models (e.g., Naive Bayes, Logistic Regression, Decision Trees) for NLP tasks
 
-.✨ Preprocessing techniques (tokenization, stemming, lemmatization, vectorization)
+-✨ Preprocessing techniques (tokenization, stemming, lemmatization, vectorization)
 
-.🧠 Machine Learning pipelines for NLP projects
+-🧠 Machine Learning pipelines for NLP projects
 
-.📈 Performance evaluation and model tuning
+-📈 Performance evaluation and model tuning
 
-.🔥 Advanced topics (optional): embeddings (Word2Vec, GloVe), sequence models
+-🔥 Advanced topics (optional): embeddings (Word2Vec, GloVe), sequence models
  
